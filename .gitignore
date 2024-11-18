@@ -1,4 +1,5 @@
 # Logs
+*.orig
 .conf
 log
 logs
