@@ -3,6 +3,9 @@ text
 	on this
 		this line is modified in rb
 		this line is modified in rb
+	a new function here:
+		whit some awesome algorithm
+
 	add function:
 		somme loop
 		for somme reason
@@ -10,5 +13,7 @@ text
 	
 
 add a class
+	and more fun with IA
+	define some chars
 	more chars
 
