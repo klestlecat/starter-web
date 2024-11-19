@@ -1,6 +1,8 @@
 text
 	more text
 	on this
+		this line is modified in rb
+		this line is modified in rb
 	add function:
 		somme loop
 		for somme reason
@@ -8,6 +10,5 @@ text
 	
 
 add a class
-	define some chars
 	more chars
 
