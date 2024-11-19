@@ -1,0 +1,13 @@
+text
+	more text
+	on this
+	add function:
+		somme loop
+		for somme reason
+		and more loops
+	
+
+add a class
+	define some chars
+	more chars
+
